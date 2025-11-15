@@ -85,7 +85,7 @@ public class MobileDao {
 	public String postValue(List<MobileEntity> a)
 	{
 		mr.saveAll(a);
-		return "Saved Successfully";
+		return "Saved Successfullies";
 	}
 	public List<MobileEntity> getNum(Integer a)
 	{
