@@ -4,7 +4,6 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-
 import com.Mobile.Repository.MobileRepository;
 import com.Mobile.entity.MobileEntity;
 
